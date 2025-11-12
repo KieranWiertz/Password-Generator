@@ -1,5 +1,5 @@
 <p align="center">
-  I built this very basic password generator in Python to learn more about utilizing tkinter!
+  I built this very basic password generator in Python with a GUI built using tkinter!
   Just input how many letters, numbers and symbols you require and a random password will be generated.
 </p>
 <p align="center">
